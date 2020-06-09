@@ -1,0 +1,9 @@
+{ 
+ "employes": 
+[
+{"password":"test","etapes":[1],"chef":true,"procedure":"passport","login":"ahssaini"},
+{"password":"test","etapes":[1],"chef":false,"procedure":" Visite","login":"arachidi"},
+{"password":"1234","etapes":[1,2],"chef":true,"procedure":"ramed","login":"erahimi"},
+{"password":"1234","etapes":[1],"chef":true,"procedure":" Visite","login":"oouklich"}
+]
+}

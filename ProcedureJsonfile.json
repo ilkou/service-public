@@ -1,0 +1,8 @@
+{ 
+ procedures: [ 
+{"descDocuments":["doc1"," doc2"],"descDocumentsDescription":["Une copie de livret de famille","document2 "],"etapeDoc":[[0],[1]],"nbrEtapes":2,"nom":"ramed"}, 
+{"descDocuments":[" Doc1"],"descDocumentsDescription":[" carte nationale"],"etapeDoc":[[0]],"nbrEtapes":1,"nom":"passport"}, 
+{"descDocuments":["doc2"],"descDocumentsDescription":["Certificat de residence "],"etapeDoc":[[0]],"nbrEtapes":1,"nom":"carte d identite"}, 
+{"descDocuments":["doc 1","doc 2"],"descDocumentsDescription":["exemple description 1","exemple description 2"],"etapeDoc":[[0,1]],"nbrEtapes":1,"nom":" Visite"}, 
+{"descDocuments":["doc 1","doc 2"],"descDocumentsDescription":["desc 1","desc 2"],"etapeDoc":[[],[]],"nbrEtapes":2,"nom":" CNSS"}
+] }
